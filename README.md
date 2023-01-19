@@ -16,11 +16,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/faysal-miah-9376651a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faysal-miah-9376651a5" height="30" width="40" /></a>
+<a href="https://kaggle.com/faysalmiah1721758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faysalmiah1721758" height="30" width="40" /></a>
+<a href="https://twitter.com/faysalmiah369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faysalmiah369" height="30" width="40" /></a>
+<a href="https://medium.com/@faysalmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faysalmiah" height="30" width="40" /></a>
 <a href="https://codepen.io/faysalmiah55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="faysalmiah55" height="30" width="40" /></a>
 <a href="https://dev.to/faysalmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="faysalmiah" height="30" width="40" /></a>
-<a href="https://twitter.com/faysalmiah369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faysalmiah369" height="30" width="40" /></a>
-<a href="https://kaggle.com/faysalmiah1721758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="faysalmiah1721758" height="30" width="40" /></a>
-<a href="https://medium.com/@faysalmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@faysalmiah" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
