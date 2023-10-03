@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/faysalmiah369" target="blank"><img src="https://img.shields.io/twitter/follow/faysalmiah369?logo=twitter&style=for-the-badge" alt="faysalmiah369" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Django**
 
 - 📝 I regularly write articles on [https://medium.com/@faysalMiah](https://medium.com/@faysalMiah)
 
-- 💬 Ask me about **React, AI, ML, DL, Python**
+- 💬 Ask me about **Django, AI, ML, DL, Python, React**
 
 - 📫 How to reach me **faysalmiah369@gmail.com**
 
