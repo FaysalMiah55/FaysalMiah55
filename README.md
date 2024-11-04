@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Faysal Miah</h1>
-<h3 align="center">I’m interested in Artificial Intelligence, Machine Learning, Data Analytics, Software Development, and Mobile Application.</h3>
+<h3 align="center">I’m interested in Web Development, Artificial Intelligence, Machine Learning, Data Analytics, Software Development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faysalmiah55&label=Profile%20views&color=0e75b6&style=flat" alt="faysalmiah55" /> </p>
 
 <p align="left"> <a href="https://twitter.com/faysalmiah369" target="blank"><img src="https://img.shields.io/twitter/follow/faysalmiah369?logo=twitter&style=for-the-badge" alt="faysalmiah369" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 📝 I regularly write articles on [https://medium.com/@faysalMiah](https://medium.com/@faysalMiah)
 
-- 💬 Ask me about **Django, AI, ML, DL, Python, React**
+- 💬 Ask me about **React, AI, ML, DL, Python**
 
 - 📫 How to reach me **faysalmiah369@gmail.com**
 
