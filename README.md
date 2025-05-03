@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning **AI, NLP, LLM, DL, CV**
 
+- My Portfolio Website: https://wondrous-pegasus-0b99f4.netlify.app/
+
 - 📝 I regularly write articles on [https://medium.com/@faysalMiah](https://medium.com/@faysalMiah)
 
 - 💬 Ask me about **AI, ML, DL, Python**
